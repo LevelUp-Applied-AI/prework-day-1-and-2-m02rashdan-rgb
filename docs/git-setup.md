@@ -1,7 +1,8 @@
+# Git Setup Log — [mousa-alrashdan]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
-**GitHub username:** [your-github-username]
+**Date completed:** [2026-02-24]
+**GitHub username:** [m3alrashdan]
 
 ---
 
@@ -11,9 +12,9 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 | Config key | Your value |
 |------------|------------|
-| `user.name` | |
-| `user.email` | |
-| `core.autocrlf` | |
+| `user.name` |m3alrashdan |
+| `user.email` | m02.rashdan@gmail.com|
+| `core.autocrlf` |true |
 
 ---
 
@@ -21,17 +22,17 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 | Field | Your value |
 |-------|------------|
-| Operating system | (e.g., Windows 11, macOS 14.4, Ubuntu 22.04) |
-| Terminal used | (e.g., Git Bash, macOS Terminal, bash on Ubuntu) |
-| Git version (`git --version`) | |
+| Operating system | ( Windows 11, ) |
+| Terminal used | ( Git Bash) |
+| Git version (`j`) | |
 
 ---
 
 ## Authentication
 
-- [ ] Personal Access Token created in GitHub Settings
-- [ ] PAT stored securely (password manager or secure notes)
-- [ ] Credential caching confirmed — Git does not re-prompt on push
+- [x] Personal Access Token created in GitHub Settings
+- [x] PAT stored securely (password manager or secure notes)
+- [x] Credential caching confirmed — Git does not re-prompt on push
 
 ---
 
@@ -47,4 +48,3 @@ After cloning, output of `git status` from inside your repo:
 ## Notes
 
 [Any issues encountered during setup, or "None."]
-
