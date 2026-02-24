@@ -24,7 +24,7 @@ Run `git config --list` in your terminal and fill in your configured values:
 |-------|------------|
 | Operating system | ( Windows 11, ) |
 | Terminal used | ( Git Bash) |
-| Git version (`j`) | |
+| Git version  |2.53.0.windows.1 |
 
 ---
 
@@ -40,11 +40,12 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 After cloning, output of `git status` from inside your repo:
 
-[Paste output here]
+On branch pr-01-git-setup  
+nothing to commit, working tree clean
 
 
 ---
 
 ## Notes
 
-[Any issues encountered during setup, or "None."]
+none
