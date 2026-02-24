@@ -28,3 +28,10 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+This repository belongs to mousa and is part of the AI.SPIRE Pre-Work program. It includes my Git setup, identity configuration, and practice with commit hygiene and 
+terminal-based workflows. The goal of this repository is to validate that my environment and Git tooling are correctly configured before starting the main program
+
+setup
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-m02rashdan-rgb.git
+cd prework-day-1-and-2-m02rashdan-rgb
