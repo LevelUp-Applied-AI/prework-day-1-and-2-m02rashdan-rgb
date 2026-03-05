@@ -28,3 +28,12 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+7. ## About
+
+My name is Mousa. This repository is part of the LevelUp Applied AI prework. It contains my setup steps, documentation, and exercises completed as part of the program preparation.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
+cd m02rashdan-rgb-prework
