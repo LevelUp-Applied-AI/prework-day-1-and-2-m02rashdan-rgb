@@ -35,5 +35,5 @@ My name is Mousa. This repository is part of the LevelUp Applied AI prework. It 
 ## Setup
 
 ```bash
-git clone https://github.com/LevelUp-Applied-AI/<your-username>-prework.git
+git clone https://github.com/LevelUp-Applied-AI/m02rashdan-rgb-prework.git
 cd m02rashdan-rgb-prework
